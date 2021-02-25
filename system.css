@@ -1,0 +1,129 @@
+.u-section-1 {
+  min-height: 698px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 269px;
+  margin-top: -2px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  width: 707px;
+  font-size: 2.25rem;
+  margin: -133px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 108px;
+  height: 108px;
+  margin: -186px auto 0 35px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 89px;
+  height: 147px;
+  object-position: 100% 100%;
+  margin: -107px auto 0 calc(((100% - 1140px) / 2) + 78px);
+}
+
+.u-section-1 .u-group-1 {
+  width: 528px;
+  background-image: none;
+  min-height: 126px;
+  height: auto;
+  margin: 121px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-top: -134px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: calc(((100% - 940px) / 2) + 100px);
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-2 {
+    width: 88px;
+    height: 81px;
+    margin-left: calc(((100% - 720px) / 2) + -15px);
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 75px;
+    height: 124px;
+    margin-top: -81px;
+    margin-left: calc(((100% - 720px) / 2) + 82px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 20px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -107px;
+    margin-left: calc(((100% - 540px) / 2) + 78px);
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-top: -2px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    font-size: 1.5rem;
+    margin-top: -160px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -150px;
+    margin-left: calc(((100% - 340px) / 2) + -15px);
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 64px;
+    height: 106px;
+    margin-top: -81px;
+    margin-left: calc(((100% - 340px) / 2) + 73px);
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+}
